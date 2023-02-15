@@ -159,4 +159,4 @@ $ iqtree -s <input.phy file> -B 1000 -alrt 1000 -T 5 -st DNA
 
 figtree--> open .contree files -->reroot to outgroup---> nodes lable
 
-![img]()
+![img](https://github.com/arash-darzian/VCF-to-Phylogeny/blob/main/ProjTaxa.recode.min4.phy.contree-01.jpg)
